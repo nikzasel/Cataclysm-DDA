@@ -31,7 +31,7 @@
         "ablative": true,
         "rigid": true,
         "holster": true,
-        "max_contains_volume": "2 L",
+        "max_contains_volume": "5 L",
         "max_contains_weight": "7500 g",
         "flag_restriction": [ "EXO_HELMET_PLATE" ],
         "moves": 120
