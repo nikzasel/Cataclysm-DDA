@@ -32,7 +32,7 @@
         "rigid": true,
         "holster": true,
         "max_contains_volume": "2 L",
-        "max_contains_weight": "5 kg",
+        "max_contains_weight": "7500 g",
         "flag_restriction": [ "EXO_HELMET_PLATE" ],
         "moves": 120
       },
